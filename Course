@@ -1,0 +1,58 @@
+Course Intro : 
+This program, designed to prepares you for a career in DevOps & Atlassian products, bridging the gap between software developers and operations teams. 
+Our unique Blended Learning combines live online classes, interactive labs and more, giving you hands-on experience and job-ready skills.
+
+Devops Course Outline:
+Introduction of DevOps Course + Linux Introduction + Linux Installation
+  Linux Basic Command
+  Directory Structure and Permissions + Storage Configuration + File System  + Lab
+  RPM / YUM + Lab + System Monitoring Tools
+  Shell Scripting + Job Scheduling + Lab
+  Introduction to Version Control system & Git  + Installation of Git + Configuration of Git
+Git Local Repository + Git Commit + Git Head + Initializing Git Repo + Git Basic Example + Git Ignore
+  Tag + Branch + Merge +  Stash + Git Revert + Git Diff
+  Git Clone + Git Authentication + Git Reset + Git GC + Git Remote Repo
+  Git Logs + Git Alias + Revision
+Introduction to Docker + Installation + Remove,Downgrade,Upgrade
+  Docker Architecture + Storage & Logging Drivers
+  Docker Registry + Docker Image + Docker Container + Lab
+  Docker Volume + Netoworks + Dockerfile 
+  Docker Compose + Docker Swarm
+  Docker Services + Docker Stack
+Introduction to Jenkins + Download and Installation + Configuration
+  Jeknins Plugins + Security Management + Free Style Job
+  Code Promotion + Git Webhook+ Java Build and deploy job
+  NodeJs on Docker deployement, Pipeline
+Introduction to Kubernetes,Architecture, Installation
+  YAML, API Primitives,Lab
+  Scheduling+ Logging/Monitoring+ App LC
+  Cluster Maintenance
+  Security
+  Networking
+  Advance Config
+  Troubleshoot
+Intro Ansible + Installation + Configuration
+  Labs
+  
+Atlassian Jira Crouse Outline
+ What is Jira
+JIRA Scheme
+JIRA Issues and Issue types
+  What is JIRA Issue?
+  Issue Types
+JIRA Components
+JIRA screen
+Issue Attributes
+Issue Security Schemes - System Administration
+How to create an issue in JIRA
+  Sub-Task
+  WorkFlows
+  Plug-ins in JIRA
+  JIRA Agile
+  Creating issue in Agile
+  How to create an Epic in Agile
+  Use of Clone and Link in JIRA
+
+Reports in JIRA
+  Kanban Board and Managing issues
+  JIRA Scrum Vs JIRA Kanban
